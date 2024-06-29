@@ -1,0 +1,1 @@
+This is a simple passenger counter app build with HTML, CSS and JavaScript.
